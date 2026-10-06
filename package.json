@@ -1,0 +1,14 @@
+{
+  "name": "fronted",
+  "version": "1.0.0",
+  "description": "Static frontend for ProyectoE1 - simple express server to serve Google Maps UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^24.10.0",
+    "node-fetch": "^3.3.2"
+  }
+}
